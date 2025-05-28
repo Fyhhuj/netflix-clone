@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "Mustfa",
-  "license": "ISC",
+  "license": "By using it, you agree to the licenses.",
   "devDependencies": {
     "concurrently": "^8.2.2",
     "prettier": "^3.2.5",
