@@ -1,5 +1,5 @@
 <a name="top"></a>
-<h1 align="center">MERN Netflix Clone 🎬</h1>
+<h1 align="center">MERN Index</h1>
 
 ![Demo App](./preview/home-screen.png 'Preview')
 
