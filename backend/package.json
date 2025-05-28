@@ -1,14 +1,14 @@
 {
-  "name": "backend",
+  "name": "index",
   "version": "1.0.0",
-  "description": "netflix clone backend",
+  "description": "Index site to watch",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "license": "ISC",
+  "license": "By using it, you agree to the licenses.",
   "dependencies": {
     "axios": "^1.7.5",
     "bcryptjs": "^2.4.3",
