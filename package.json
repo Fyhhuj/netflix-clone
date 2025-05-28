@@ -1,7 +1,7 @@
 {
-  "name": "netflix-clone",
+  "name": "index",
   "version": "1.0.0",
-  "description": "Netflix Clone with MERN Stack",
+  "description": "Index site to watch",
   "type": "module",
   "scripts": {
     "dev": "SET NODE_ENV=development&& concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\" ",
@@ -10,7 +10,7 @@
     "format": "prettier --print-width=120 --write ."
   },
   "keywords": [],
-  "author": "Kundan Gupta",
+  "author": "Mustfa",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.2.2",
